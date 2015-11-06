@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/MinhHang/Desktop/Github_PY/SQL real data/manufacture.db"/><window><current_tab id="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="1894"/><expanded_item id="0" parent="-1"/><expanded_item id="1" parent="-1"/><expanded_item id="2" parent="-1"/><expanded_item id="3" parent="-1"/></tab_structure><tab_browse><current_table name="contribution"/><column_widths data="AAAAAQAAABgAYwBvAG4AdAByAGkAYgB1AHQAaQBvAG4AAAABAAAAAAAAAAA="/><sort column="0" order="0"/></tab_browse><tab_sql><sql name="part1.sql">SELECT * FROM contribution
-SELECT Part, Description FROM contribution</sql><sql name="SQL 3">SELECT * FROM contribution WHERE Labor &gt;= 400 AND Outside &lt;= 5000
-
-</sql><current_tab id="1"/></tab_sql></sqlb_project>
