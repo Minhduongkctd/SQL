@@ -1,0 +1,1 @@
+SELECT Part, SalePrice FROM contrubute
